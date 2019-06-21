@@ -11,6 +11,9 @@
 * [Global.asax](./CS/WebSite/Global.asax) (VB: [Global.asax](./VB/WebSite/Global.asax))
 <!-- default file list end -->
 # How to bind the ASPxMenu with associated objects or the XpoHierarchicalDataSource
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2244/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement the <a href="http://msdn.microsoft.com/library/system.web.ui.ihierarchicaldatasource.aspx"><u>IHierarchicalDataSource</u></a> interface to support XPO objects. The ASPxMenu,  and some standard navigation controls don't support the XpoDataSource control, because it doesn't implement the <a href="http://msdn.microsoft.com/library/system.web.ui.ihierarchicaldatasource.aspx"><u>IHierarchicalDataSource</u></a> interface.</p><p><strong>See Also:</strong><br />
